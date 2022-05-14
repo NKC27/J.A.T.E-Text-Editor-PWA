@@ -10,7 +10,7 @@ To build the J.A.T.E Text Editor, you will need to clone the repo and run the fo
 
 ```
 1. npm install - To install dependencies
-2. npm run start:dev
+2. npm run build
 3. npm run start
 4. then navigate to http://localhost:3000/ in your browser.
 ```
@@ -53,3 +53,13 @@ Please click on the link to view the finished deployed application on Heeroku:
 
 [J.A.T.E Text Editor](https://text-editor-nkc.herokuapp.com/)
 
+---------------------------------
+## Questions
+
+If you have any additional questions, then please feel free to get in touch via my github or email details linked below. Thank you.
+
+<div>
+<a href="mailto:n.clarke2785@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-NICK CLARKE-success?style=for-the-badge&logo=&logoColor=white" alt="Nick Github"/>
+</a>
+</div>
