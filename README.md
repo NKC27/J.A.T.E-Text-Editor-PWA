@@ -19,18 +19,37 @@ To build the J.A.T.E Text Editor, you will need to clone the repo and run the fo
 
 The following animation demonstrates the application functionality:
 
-![J.A.T.E Text Editor](./Assets/00-demo.gif)
+## Text Editor Screenshot
+
+![J.A.T.E Text Editor](./Assets/jate_start.jpeg)
+
+------------------------------------------------
+
+## Manifest Screenshot
 
 The following image shows the application's `manifest.json` file:
 
-![Demonstration of the finished Unit 19 Homework with a manifest file in the browser.](./Assets/01-manifest.png)
+![Demonstration of Manifest file in the browser.](./Assets/jate_manifest.png)
+
+------------------------------------------------
+## Registered Service Worker
 
 The following image shows the application's registered service worker:
 
-![Demonstration of the finished Unit 19 Homework with a registered service worker in the browser.](./Assets/02-service-worker.png)
+![Demonstration of the finished Unit 19 Homework with a registered service worker in the browser.](./Assets/jate_heroku.jpeg)
+
+------------------------------------------------
+## IndexedDB
 
 The following image shows the application's IndexedDB storage:
 
-![Demonstration of the finished Unit 19 Homework with a IndexedDB storage named 'jate' in the browser.](./Assets/03-idb-storage.png)
+![Demonstration of the finished Unit 19 Homework with a IndexedDB storage named 'jate' in the browser.](./Assets/jate_indexdb.jpeg)
 
+------------------------------------------------
+
+## Deployed to Heroku
+
+Please click on the link to view the finished deployed application on Heeroku:
+
+[J.A.T.E Text Editor](https://text-editor-nkc.herokuapp.com/)
 
